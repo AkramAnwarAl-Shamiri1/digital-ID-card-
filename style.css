@@ -1,0 +1,90 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f2f5;
+  margin: 0;
+  padding: 0;
+  color: #333333;
+}
+
+header {
+  background: #007bff;
+  color:hsl(199, 100%, 50%);
+  padding: 2px 0;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(2, 218, 182, 0.1);
+}
+
+main {
+  max-width:800px;
+  margin: 20px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 10px 0;
+}
+
+img {
+  border-radius: 40%;
+  display:block;
+  margin: 0 auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+figcaption{
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+}
+p {
+  text-align: center;
+    font-size: 30px;
+}
+h1 {
+  text-align: center;
+  color:white;
+}
+ h2 {
+  text-align: center;
+  color: #e62020;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background: #007bff;
+  color: white;
+  text-align: center;
+  padding: 2px 0;
+  margin-top: 40px;
+  font-size: 20px;
+}
+
+iframe {
+  width: 100%;
+  height: 300px;
+  border: none;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+marquee {
+  font-weight: bold;
+}
+//git push -u origin master
+//https://github.com/Akrm-777/digital-ID-card-
